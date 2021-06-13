@@ -1,9 +1,9 @@
-# docker-<<IMAGE_NAME>>
+# docker-cint
 
-### _C compiler <<IMAGE_NAME>> in docker_
+### _C compiler cint in docker_
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
-[![docker-<<IMAGE_NAME>>](https://github.com/Bensuperpc/docker-<<IMAGE_NAME>>/actions/workflows/main.yml/badge.svg)](https://github.com/Bensuperpc/docker-<<IMAGE_NAME>>/actions/workflows/main.yml)
+[![docker-cint](https://github.com/Bensuperpc/docker-cint/actions/workflows/main.yml/badge.svg)](https://github.com/Bensuperpc/docker-cint/actions/workflows/main.yml)
 
 # New Features !
 
@@ -13,10 +13,10 @@
 You need Linux distribution like Ubuntu or Manjaoro
 
 ```sh
-https://github.com/Bensuperpc/docker-<<IMAGE_NAME>>.git
+https://github.com/Bensuperpc/docker-cint.git
 ```
 ```sh
-cd docker-<<IMAGE_NAME>>
+cd docker-cint
 ```
 #### Usage
 
